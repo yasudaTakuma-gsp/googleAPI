@@ -31,6 +31,7 @@ public class GoogleAPI {
 	private static final String GLOBAL_LOCATION = "JP";
 	// 言語
 	private static final String LANGUAGE = "ja";
+	// 完全一致
 
 	/**
 	 * Google検索APIを指定クエリで実行します。
